@@ -1,0 +1,23 @@
+{
+  "name": "(test)",
+  "version": "0.0.0",
+  "description": "Testing heroku and nodejs",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ONeale/test.git"
+  },
+  "keywords": [
+    "heroku",
+    "git"
+  ],
+  "author": "Olivia Neale",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ONeale/test/issues"
+  },
+  "homepage": "https://github.com/ONeale/test"
+}
