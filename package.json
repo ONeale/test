@@ -19,5 +19,15 @@
   "bugs": {
     "url": "https://github.com/ONeale/test/issues"
   },
-  "homepage": "https://github.com/ONeale/test"
+  "homepage": "https://github.com/ONeale/test",
+  "dependencies": {
+    "express": "^4.5.1",
+    "logfmt": "^1.1.2"
+  }
+}
+
+{
+  "engines": {
+    "node": "0.10.x"
+  }
 }
